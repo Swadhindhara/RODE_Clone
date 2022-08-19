@@ -12,7 +12,7 @@
 </span>
 
 ## How website looks like
-<img src =""/>
+<img src ="https://github.com/Swadhindhara/RODE_Clone/blob/main/fo.png"/>
 
 ## This project took around 7 hours to complete .
 
